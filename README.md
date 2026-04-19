@@ -35,6 +35,19 @@ How to Run?
 <br>
 <br>
 <br>
+Preview:-
+<br>
+<br>
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/b2076691-f136-40f5-9f7d-eaae3a48816c" />
+<br>
+<br>
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/7bbecfb9-f8fd-4131-9fec-2f0295655e6f" />
+<br>
+<br>
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/1884229b-b237-4c0e-93c1-7395834d1527" />
+<br>
+<br>
+<br>
 Goal:-
 <br>
 <br>
