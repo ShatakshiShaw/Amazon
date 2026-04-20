@@ -1,3 +1,6 @@
+Amazon Clone Project
+<br>
+<br>
 This is a simple Amazon homepage clone built using HTML and CSS.
 <br>
 This project is created for practice and to improve frontend design skills.
