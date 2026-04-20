@@ -38,6 +38,12 @@ How to Run?
 <br>
 <br>
 <br>
+Live demo:-
+<br>
+https://shatakshishaw.github.io/Amazon/
+<br>
+<br>
+<br>
 Preview:-
 <br>
 <br>
@@ -54,7 +60,6 @@ To practice and understand layout design using HTML and CSS.
 <br>
 <br>
 Author:-
-<br>
 <br>
 Shatakshi Shaw
 <br>
