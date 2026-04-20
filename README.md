@@ -1,4 +1,4 @@
-Amazon Clone Project
+Amazon Clone 
 <br>
 <br>
 This is a simple Amazon homepage clone built using HTML and CSS.
