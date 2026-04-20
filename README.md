@@ -7,6 +7,19 @@ This project is created for practice and to improve frontend design skills.
 <br>
 <br>
 <br>
+Live demo:-
+<br>
+https://shatakshishaw.github.io/Amazon/
+<br>
+<br>
+<br>
+Objective:-
+<br>
+<br>
+To practice and understand layout design using HTML and CSS.
+<br>
+<br>
+<br>
 Features:-
 <br>
 <br>
@@ -29,21 +42,6 @@ Tech Stack:-
 <br>
 <br>
 <br>
-How to Run?
-<br>
-<br>
-->Download or clone this repository
-<br>
-->Open index.html in your browser
-<br>
-<br>
-<br>
-Live demo:-
-<br>
-https://shatakshishaw.github.io/Amazon/
-<br>
-<br>
-<br>
 Preview:-
 <br>
 <br>
@@ -52,10 +50,12 @@ Preview:-
 <img width="1919" height="837" alt="image" src="https://github.com/user-attachments/assets/8f20a066-6360-4a9f-a9aa-f741a5a20eb3" />
 <br>
 <br>
-Goal:-
+How to Run?
 <br>
 <br>
-To practice and understand layout design using HTML and CSS.
+->Download or clone this repository
+<br>
+->Open index.html in your browser
 <br>
 <br>
 <br>
